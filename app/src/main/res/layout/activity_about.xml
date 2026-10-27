@@ -10,7 +10,7 @@
         android:id="@+id/textTentang"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Aplikasi ini dibuat oleh DANANG"
+        android:text="Aplikasi ini dibuat oleh Hannan"
         android:textSize="20sp"
         android:textStyle="bold"
         android:gravity="center"

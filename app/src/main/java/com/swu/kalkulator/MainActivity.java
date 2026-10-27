@@ -174,7 +174,7 @@ public class MainActivity extends AppCompatActivity {
 
             bukaIntent(intentKamera, "Kamera tidak tersedia");
 
-        } else if (hasil == 8.0) {
+        } else if (hasil == 9.0) {
 
             // Hasil 4: buka halaman gambar.
             Intent intentGambar = new Intent(
@@ -206,7 +206,7 @@ public class MainActivity extends AppCompatActivity {
 
             startActivity(intentMusik);
 
-        } else if (hasil == 30.0) {
+        } else if (hasil == 28.0) {
 
             // Hasil 9: buka halaman sensor.
             Intent intentSensor = new Intent(
@@ -216,7 +216,7 @@ public class MainActivity extends AppCompatActivity {
 
             startActivity(intentSensor);
 
-        } else if (hasil == 4.0) {
+        } else if (hasil == 18.0) {
 
             // Hasil 15: buka Google Maps.
             bukaPeta();
